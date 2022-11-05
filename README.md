@@ -21,6 +21,6 @@ Your users should be able to:
 
 ## Live site URL:
 
-- 
+- https://dlxzeus777.github.io/Social-media-dashboard-with-theme-switcher/
 
 ### If you have any advice on how can I improve send me a DM on twitter!
